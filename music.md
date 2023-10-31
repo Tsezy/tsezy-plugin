@@ -1,4 +1,4 @@
-网易点歌
+网易点歌,
 类型：接口0,
 多选地址：http://ovoa.cc/api/QQmusic.php?msg=【歌名】&type=json,
 code成功：200,
@@ -13,7 +13,7 @@ json属性：data,
 图片属性：data.cover,
 地址属性：data.src
 |
-酷狗点歌
+酷狗点歌,
 类型：接口0,
 多选地址：http://ovoa.cc/api/QQmusic.php?msg=【歌名】&type=json,
 code成功：200,
@@ -28,7 +28,7 @@ json属性：data,
 图片属性：data.cover,
 地址属性：data.src
 |
-QQ点歌
+QQ点歌,
 类型：新建,
 多选地址：http://ovoa.cc/api/QQmusic.php?msg=【歌名】&type=json,
 code成功：200,
