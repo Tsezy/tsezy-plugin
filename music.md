@@ -1,18 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Tsezy</title>
-</head>
-<body>
-    <h1>Tsezy-Plugin</h1>
-    <p>音乐插件</p>
-    <p>版本：1.0.0</p>
-    <p>地址：www.baidu.com</p>
-    <p>md5：3795da0caee5f44d362b6a99e0682e43</p>
-    <br>
-    <p>其他插件</p>
-    <p>版本：1.0.0</p>
-    <p>地址：www.baidu.com</p>
-</body>
-</html>
+1
