@@ -12,7 +12,7 @@ json属性：data
 歌手属性：data.name
 图片属性：data.cover
 地址属性：data.src
-<br>
+\n
 酷狗点歌
 类型：接口0
 多选地址：http://ovoa.cc/api/QQmusic.php?msg=【歌名】&type=json
